@@ -1,0 +1,19 @@
+# Keil MDK 编译中间产物
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvgui.*
+*.bak
+*.dep
+*.d
+*.crf
+*.o
+*.lst
+*.htm
+*.lnp
+*.sbr
+
+# 系统文件
+Thumbs.db
+Desktop.ini
